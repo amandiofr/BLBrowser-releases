@@ -1,8 +1,10 @@
 # BLBrowser
 
+**[👉 Pour installer l'application, cliquez ici](https://github.com/amandiofr/BLBrowser-releases/releases/latest)** : téléchargez le fichier `.apk` de la dernière version, puis ouvrez-le sur votre téléphone ou votre TV (détails dans [Installation](#installation)).
+
 Navigateur Android plein écran minimaliste : pas de barre d'adresse, pas d'onglets, pas de barre d'outils. Juste la page, en plein écran.
 
-Glissez depuis le bord gauche de l'écran pour ouvrir le menu : retour, recharger, accueil, recherche Google, saisie d'URL, mode sombre, luminosité, masquage d'éléments de la page. Les publicités, traceurs et bannières de cookies sont bloqués automatiquement.
+Glissez depuis le bord gauche de l'écran pour ouvrir le menu : retour, recharger, accueil, recherche Google, saisie d'URL, mode sombre, luminosité, masquage d'éléments de la page. Sur Android TV / Google TV, la touche **Retour** de la télécommande ouvre le menu. Les publicités, traceurs et bannières de cookies sont bloqués automatiquement.
 
 Ce dépôt sert uniquement à distribuer les APK de BLBrowser.
 
@@ -13,7 +15,7 @@ Ce dépôt sert uniquement à distribuer les APK de BLBrowser.
 3. Si Android bloque l'installation, autorisez l'application qui ouvre l'APK (navigateur ou *Fichiers*) à installer des applications inconnues : *Paramètres* → *Applications* → *Accès spécial* → *Installer des applications inconnues*.
 4. Si Google Play Protect affiche un avertissement (« application inconnue »), choisissez *Plus d'infos* → *Installer quand même*.
 
-Compatibilité : Android 7.0 et supérieur.
+Compatibilité : Android 7.0 et supérieur, téléphones, tablettes et Android TV / Google TV.
 
 ## Mises à jour
 
