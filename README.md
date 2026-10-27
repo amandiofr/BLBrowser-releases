@@ -1,6 +1,6 @@
 # BLBrowser
 
-**[👉 Pour installer l'application, cliquez ici](https://github.com/amandiofr/BLBrowser-releases/releases/latest)** : téléchargez le fichier `.apk` de la dernière version, puis ouvrez-le sur votre téléphone ou votre TV (détails dans [Installation](#installation)).
+**[👉 Pour installer l'application, cliquez ici](https://github.com/amandiofr/BLBrowser-releases/releases/latest/download/BLBrowser.apk)** (téléchargement direct de la dernière version), puis ouvrez le fichier téléchargé sur votre téléphone ou votre TV (détails dans [Installation](#installation)).
 
 Navigateur Android plein écran minimaliste : pas de barre d'adresse, pas d'onglets, pas de barre d'outils. Juste la page, en plein écran.
 
@@ -10,7 +10,7 @@ Ce dépôt sert uniquement à distribuer les APK de BLBrowser.
 
 ## Installation
 
-1. Sur le téléphone, ouvrez la page [Releases](https://github.com/amandiofr/BLBrowser-releases/releases/latest) et téléchargez le fichier `BLBrowser-<version>.apk`.
+1. Sur le téléphone, téléchargez [BLBrowser.apk](https://github.com/amandiofr/BLBrowser-releases/releases/latest/download/BLBrowser.apk) (toujours la dernière version).
 2. Ouvrez l'APK téléchargé (notification de fin de téléchargement, ou application *Fichiers* → *Téléchargements*).
 3. Si Android bloque l'installation, autorisez l'application qui ouvre l'APK (navigateur ou *Fichiers*) à installer des applications inconnues : *Paramètres* → *Applications* → *Accès spécial* → *Installer des applications inconnues*.
 4. Si Google Play Protect affiche un avertissement (« application inconnue »), choisissez *Plus d'infos* → *Installer quand même*.
