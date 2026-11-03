@@ -19,7 +19,12 @@ Compatibilité : Android 7.0 et supérieur, téléphones, tablettes et Android T
 
 ## Mises à jour
 
-Au démarrage, BLBrowser vérifie (au plus toutes les 12 heures) si une nouvelle version est publiée ici et propose de la télécharger. Il suffit ensuite d'ouvrir l'APK : la mise à jour s'installe par-dessus la version existante et conserve vos réglages (page d'accueil, mode sombre, éléments masqués).
+Au démarrage, BLBrowser vérifie (au plus toutes les 12 heures) si une nouvelle version est publiée ici et propose de l'installer. Pour vérifier tout de suite, touchez le titre « BLBrowser x.y.z » en haut du menu.
+
+- **Première mise à jour depuis l'application** : Android demande d'autoriser BLBrowser à installer des applications, puis de confirmer la mise à jour.
+- **Mises à jour suivantes** (Android 12 et supérieur) : elles s'installent sans confirmation ; l'application se ferme puis se relance à jour.
+
+La mise à jour s'installe par-dessus la version existante et conserve vos réglages (page d'accueil, mode sombre, éléments masqués).
 
 Vous pouvez aussi télécharger manuellement la dernière version depuis [Releases](https://github.com/amandiofr/BLBrowser-releases/releases/latest).
 
