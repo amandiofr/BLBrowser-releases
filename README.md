@@ -1,5 +1,7 @@
 # BLBrowser
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/amandiofr)
+
 **[👉 Pour installer l'application, cliquez ici](https://github.com/amandiofr/BLBrowser-releases/releases/latest/download/BLBrowser.apk)** (téléchargement direct de la dernière version), puis ouvrez le fichier téléchargé sur votre téléphone ou votre TV (détails dans [Installation](#installation)).
 
 Navigateur Android plein écran minimaliste : pas de barre d'adresse, pas d'onglets, pas de barre d'outils. Juste la page, en plein écran.
