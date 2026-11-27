@@ -8,6 +8,11 @@ Navigateur Android plein écran minimaliste : pas de barre d'adresse, pas d'ongl
 
 Glissez depuis le bord gauche de l'écran pour ouvrir le menu : retour, recharger, accueil, recherche Google, saisie d'URL, mode sombre, luminosité, masquage d'éléments de la page. Sur Android TV / Google TV, la touche **Retour** de la télécommande ouvre le menu. Les publicités, traceurs et bannières de cookies sont bloqués automatiquement.
 
+<p>
+<img src="screenshots/page.png" width="250" alt="Une page en plein écran, sans rien autour">
+<img src="screenshots/menu.png" width="250" alt="Le menu, ouvert en glissant depuis le bord gauche">
+</p>
+
 Ce dépôt sert uniquement à distribuer les APK de BLBrowser.
 
 ## Installation
